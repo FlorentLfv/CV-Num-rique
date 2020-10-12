@@ -1,0 +1,109 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    background-image: repeating-linear-gradient(334deg, rgba(52, 187, 95,0.12) 0px, rgba(52, 187, 95,0.12) 1px,transparent 1px, transparent 13px),repeating-linear-gradient(289deg, rgba(52, 187, 95,0.12) 0px, rgba(52, 187, 95,0.12) 1px,transparent 1px, transparent 13px),linear-gradient(334deg, rgb(45, 107, 241),rgb(28, 58, 170));
+    color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    }
+.links{
+    color: #746D75;
+    outline-color: #746D75;
+}
+#square1{
+    display: inline-flexbox;
+    width: 100%;
+    height: fit-content;
+    float: left;
+    border-radius: 10px;
+    background-image: repeating-linear-gradient(0deg, hsla(127,4%,81%,0.05) 0px, hsla(127,4%,81%,0.05) 1px,transparent 1px, transparent 11px,hsla(127,4%,81%,0.05) 11px, hsla(127,4%,81%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(135deg, hsla(127,4%,81%,0.05) 0px, hsla(127,4%,81%,0.05) 1px,transparent 1px, transparent 11px,hsla(127,4%,81%,0.05) 11px, hsla(127,4%,81%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(0deg, hsla(127,4%,81%,0.05) 0px, hsla(127,4%,81%,0.05) 1px,transparent 1px, transparent 11px,hsla(127,4%,81%,0.05) 11px, hsla(127,4%,81%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(135deg, hsla(127,4%,81%,0.05) 0px, hsla(127,4%,81%,0.05) 1px,transparent 1px, transparent 11px,hsla(127,4%,81%,0.05) 11px, hsla(127,4%,81%,0.05) 12px,transparent 12px, transparent 32px),linear-gradient(90deg, rgb(223, 195, 5),rgb(235, 130, 88));
+}
+#text1{
+    color: black;
+    font-size: large;
+    text-align: right;
+    font-size: x-large;
+    margin-right: 15%;
+}
+#p1{
+    margin-left: 5%;
+    margin-bottom: 0px;
+    color: #FFD447;
+}
+#p2{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-bottom: 0px;
+}
+#square2{
+    display: inline-flexbox;
+    width: 20%;
+    height: fit-content;
+    float: right;
+    background-image: linear-gradient(279deg, rgba(84, 153, 197, 0.04) 0%, rgba(84, 153, 197, 0.04) 50%,rgba(43, 252, 236, 0.04) 50%, rgba(43, 252, 236, 0.04) 100%),linear-gradient(501deg, rgba(197, 57, 189, 0.04) 0%, rgba(197, 57, 189, 0.04) 50%,rgba(167, 106, 179, 0.04) 50%, rgba(167, 106, 179, 0.04) 100%),linear-gradient(558deg, rgba(76, 28, 237, 0.04) 0%, rgba(76, 28, 237, 0.04) 50%,rgba(115, 208, 165, 0.04) 50%, rgba(115, 208, 165, 0.04) 100%),linear-gradient(471deg, rgba(241, 1, 111, 0.04) 0%, rgba(241, 1, 111, 0.04) 50%,rgba(7, 173, 72, 0.04) 50%, rgba(7, 173, 72, 0.04) 100%),linear-gradient(531deg, rgba(124, 241, 241, 0.04) 0%, rgba(124, 241, 241, 0.04) 50%,rgba(26, 63, 229, 0.04) 50%, rgba(26, 63, 229, 0.04) 100%),linear-gradient(331deg, rgba(87, 80, 82, 0.04) 0%, rgba(87, 80, 82, 0.04) 50%,rgba(104, 13, 102, 0.04) 50%, rgba(104, 13, 102, 0.04) 100%),linear-gradient(499deg, rgba(127, 190, 93, 0.04) 0%, rgba(127, 190, 93, 0.04) 50%,rgba(120, 35, 199, 0.04) 50%, rgba(120, 35, 199, 0.04) 100%),linear-gradient(588deg, rgba(227, 212, 206, 0.04) 0%, rgba(227, 212, 206, 0.04) 50%,rgba(55, 215, 100, 0.04) 50%, rgba(55, 215, 100, 0.04) 100%),linear-gradient(453deg, rgba(32, 99, 251, 0.04) 0%, rgba(32, 99, 251, 0.04) 50%,rgba(230, 154, 131, 0.04) 50%, rgba(230, 154, 131, 0.04) 100%),linear-gradient(489deg, rgb(223, 195, 5),rgb(235, 130, 88));
+    color: black;
+    text-align: left;
+    border-radius: 10px;
+}
+#square4{
+    display: inline-flexbox;
+    width: 75%;
+    height: fit-content;
+    float: left;
+    border: 0px;
+    background-color: transparent;
+}
+#square5{
+    display: inline-flexbox;
+    width: 75%;
+    height: fit-content;
+    float: initial;
+    border: 0px;
+    background-color: transparent;
+}
+.title1{
+    color: #FFD447;
+    font-size: x-large;
+    margin-left: 3%;
+}
+.title2{
+    color: #1C77C3;
+    font-size: large;
+    margin-left: 3%;
+}
+.text1{
+    color: white;
+    margin-bottom: 20px;
+}
+.text2{
+    color: black;
+    margin-bottom: 15px;
+}
+hr{
+    margin-right: 40%;
+    background-color: #FFD447;
+    border-radius: 5px;
+}
+.container{
+    width: 300px;
+    height: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+#progressBarHTML{
+    width: 25%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #ff8d5c;
+}
+#progressBarCSS{
+    width: 25%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #46b4fd;
+}
+#progressBarGithub{
+    width: 75%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
